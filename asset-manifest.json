@@ -1,16 +1,15 @@
 {
-  "main.css": "/knitting/static/css/main.82b5af20.chunk.css",
-  "main.js": "/knitting/static/js/main.7b335d4d.chunk.js",
-  "main.js.map": "/knitting/static/js/main.7b335d4d.chunk.js.map",
-  "static/js/1.dbf16a7a.chunk.js": "/knitting/static/js/1.dbf16a7a.chunk.js",
-  "static/js/1.dbf16a7a.chunk.js.map": "/knitting/static/js/1.dbf16a7a.chunk.js.map",
-  "static/js/2.b75323fd.chunk.js": "/knitting/static/js/2.b75323fd.chunk.js",
-  "static/js/2.b75323fd.chunk.js.map": "/knitting/static/js/2.b75323fd.chunk.js.map",
-  "runtime~main.js": "/knitting/static/js/runtime~main.b9b6da85.js",
-  "runtime~main.js.map": "/knitting/static/js/runtime~main.b9b6da85.js.map",
-  "static/media/logo.svg": "/knitting/static/media/logo.06e73328.svg",
-  "static/css/main.82b5af20.chunk.css.map": "/knitting/static/css/main.82b5af20.chunk.css.map",
-  "index.html": "/knitting/index.html",
-  "precache-manifest.fdda25dff4b4de6e594d3c37096d58a3.js": "/knitting/precache-manifest.fdda25dff4b4de6e594d3c37096d58a3.js",
-  "service-worker.js": "/knitting/service-worker.js"
+  "files": {
+    "main.css": "/knitting/static/css/main.0f258ecb.css",
+    "main.js": "/knitting/static/js/main.3a72b957.js",
+    "static/js/302.9a39abc2.chunk.js": "/knitting/static/js/302.9a39abc2.chunk.js",
+    "index.html": "/knitting/index.html",
+    "main.0f258ecb.css.map": "/knitting/static/css/main.0f258ecb.css.map",
+    "main.3a72b957.js.map": "/knitting/static/js/main.3a72b957.js.map",
+    "302.9a39abc2.chunk.js.map": "/knitting/static/js/302.9a39abc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f258ecb.css",
+    "static/js/main.3a72b957.js"
+  ]
 }

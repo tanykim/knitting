@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/knitting/static/css/main.0f258ecb.css",
-    "main.js": "/knitting/static/js/main.8c43a895.js",
+    "main.css": "/knitting/static/css/main.2df35432.css",
+    "main.js": "/knitting/static/js/main.4c01fffa.js",
     "static/js/302.9a39abc2.chunk.js": "/knitting/static/js/302.9a39abc2.chunk.js",
     "index.html": "/knitting/index.html",
-    "main.0f258ecb.css.map": "/knitting/static/css/main.0f258ecb.css.map",
-    "main.8c43a895.js.map": "/knitting/static/js/main.8c43a895.js.map",
+    "main.2df35432.css.map": "/knitting/static/css/main.2df35432.css.map",
+    "main.4c01fffa.js.map": "/knitting/static/js/main.4c01fffa.js.map",
     "302.9a39abc2.chunk.js.map": "/knitting/static/js/302.9a39abc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f258ecb.css",
-    "static/js/main.8c43a895.js"
+    "static/css/main.2df35432.css",
+    "static/js/main.4c01fffa.js"
   ]
 }
